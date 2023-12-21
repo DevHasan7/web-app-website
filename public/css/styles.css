@@ -165,6 +165,7 @@ a:hover {
 	margin: 30px 0;
 }
 .copyright {
+	margin-top: auto;
 	color: #6D6D6D;
 	background: #0F0F0F;
 	padding: 20px 0;
@@ -892,9 +893,11 @@ body {
 	margin-right: 6px;
 }
 footer {
+	margin-top: 50px;
 	border-top: 1px solid #303030;
 	padding: 35px 0 15px;
 	background: #0F0F0F;
+	height: 140px;
 }
 .social a:hover {
 	color: #818181;
