@@ -98,8 +98,7 @@ var customScripts = {
 }
 $('document').ready(function () {
 	 $.backstretch([
-      "images/img1.jpg"
-    , "images/img2.jpg"
+      "images/background.jpg"
   ], {duration: 3000, fade: 1250});
   
     customScripts.init();
