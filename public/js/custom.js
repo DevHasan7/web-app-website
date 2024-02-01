@@ -98,7 +98,7 @@ var customScripts = {
 }
 $('document').ready(function () {
 	 $.backstretch([
-      "images/Turbo_Thunders_Background.png"
+      "images/image.webp"
   ], {duration: 3000, fade: 1250});
   
     customScripts.init();
